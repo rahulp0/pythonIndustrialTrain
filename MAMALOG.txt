@@ -1,0 +1,20 @@
+ 2018-06-08 14:47:36,707-INFO-into the function tesa 
+ 2018-06-08 14:47:36,707-CRITICAL-the function got the value 1
+ 2018-06-08 14:47:36,707-ERROR-the function got the value 1
+ 2018-06-08 14:47:36,707-WARNING-the function got the value 1
+ 2018-06-08 14:47:36,707-INFO-the function got the value 1
+ 2018-06-08 14:53:29,617-INFO-into the function tesa 
+ 2018-06-08 14:53:29,617-CRITICAL-the function got the value 1
+ 2018-06-08 14:53:29,617-ERROR-the function got the value 1
+ 2018-06-08 14:53:29,617-WARNING-the function got the value 1
+ 2018-06-08 14:53:56,867-INFO-the function got the value 1
+ 2018-06-08 14:54:00,181-INFO-into the function tesa 
+ 2018-06-08 14:54:00,181-CRITICAL-the function got the value 1
+ 2018-06-08 14:54:00,181-ERROR-the function got the value 1
+ 2018-06-08 14:54:00,181-WARNING-the function got the value 1
+ 2018-06-08 14:54:01,725-INFO-the function got the value 1
+ 2018-06-08 14:59:34,257-INFO-into the function tesa 
+ 2018-06-08 14:59:34,257-CRITICAL-the function got the value 1
+ 2018-06-08 14:59:34,257-ERROR-the function got the value 1
+ 2018-06-08 14:59:34,258-WARNING-the function got the value 1
+ 2018-06-08 15:00:30,126-INFO-the function got the value 1
